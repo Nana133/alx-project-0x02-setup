@@ -1,4 +1,3 @@
-
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
@@ -39,11 +38,3 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-=======
-# Next.js Project Setup and Basics
-
-This repository contains the setup instructions and basic structure for a Next.js project.  
-It is part of the ALX Frontend Development training.  
-
-The purpose of this repository is to help learners understand how to initialize, structure, and run a basic Next.js application.
-
